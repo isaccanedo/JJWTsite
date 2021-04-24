@@ -1,0 +1,55 @@
+body {
+    margin-top: 60px;
+}
+.box {
+    padding: 10px;
+    height: 375px;
+}
+.jwt-common {
+    margin-bottom: 10px;
+    text-align: left;
+}
+.jwt-header {
+    height: 100px;
+}
+.jwt-payload {
+    height: 130px;
+}
+.jwt-signature {
+    height: 20px;
+}
+.jwt-builder {
+    height: 250px;
+}
+.jwt-parser {
+    height: 250px;
+}
+.isaccanedo-header {
+    background-color: #161616;
+}
+.left {
+    text-align: left;
+}
+.red {
+    color: red;
+}
+.blue {
+    color: blue;
+}
+.purple {
+    color: purple;
+}
+.wrap {
+    word-wrap: break-word;
+}
+.dn {
+    display: none;
+}
+.jwt-wrap {
+    width:480px;
+    word-wrap:break-word;
+    display:inline-block;
+}
+a.nounderline:focus, a.nounderline:hover {
+    text-decoration: none;
+}
